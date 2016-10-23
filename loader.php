@@ -1,7 +1,7 @@
 <?php 
 /*
  * Plugin Name: Buddypress Activity Share
- * Plugin URI: 
+ * Plugin URI: https://github.com/Volnus/Buddypress-Activity-Share/
  * Description: Adds social share buttons to BuddyPress activity pages and member profiles. (Very well optimized)
  * Version: 1.0
  * Author: Scott Hartley
