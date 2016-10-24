@@ -17,7 +17,7 @@ function buddy_social_button_activity_filter() {
   
     $buddy_social_email = '<a class="general fa-envelope" href="mailto:?body='.$activity_title .' ' . $activity_link . '" rel="nofollow"></a>';
  	
-  	$buddy_social_addthis = '<a class="general fa-plus-square" href="https://www.addthis.com/bookmark.php?source=bx32nj-1.0&v=300&url='.$activity_title .' ' . $activity_link . '" rel="nofollow"></a>';
+    $buddy_social_addthis = '<a class="new-window social fa-plus-square" href="https://www.addthis.com/bookmark.php?source=bx32nj-1.0&v=300&url=' . $activity_link . '" rel="nofollow"></a>';
 
     ?><span class="bp-social-button">
 <a class="button item-button bp-secondary-action buddypress-social-button" rel="nofollow">Share</a></span>
